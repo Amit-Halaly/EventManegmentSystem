@@ -1,0 +1,55 @@
+4
+10000
+250
+0
+12
+12
+2025
+terminal
+300
+tel aviv
+ben goriun 5
+1
+25000
+195
+0
+12
+12
+2026
+troya
+200
+natanya
+hazait 4
+2
+30000
+150
+0
+3
+6
+2025
+troya
+200
+natanya
+hazait 4
+2
+14000
+400
+1
+5
+6
+2026
+GreenGarden
+500
+jerusalem
+yitzhak rabin 7
+0
+3
+211541446
+ah
+0
+211568554
+kj
+2
+211685445
+df
+1

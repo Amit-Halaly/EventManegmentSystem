@@ -1,0 +1,22 @@
+BEN
+4
+COLONIA
+700
+haifa
+washington 8
+1
+GreenGarden
+500
+jerusalem
+yitzhak rabin 7
+0
+terminal
+300
+tel aviv
+ben goriun 5
+0
+troya
+200
+ashdod
+hazait 4
+2
