@@ -24,7 +24,7 @@ The program is designed to be efficient and user-friendly, providing essential f
 
 1. **Clone the Repository:**  
    ```bash
-   git clone https://github.com/yourusername/event-hall-management-system.git
+   git clone https://github.com/yourusername/EventManegmentSystem.git
    cd event-hall-management-system
    ```
 
