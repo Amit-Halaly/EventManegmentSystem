@@ -25,18 +25,18 @@ The program is designed to be efficient and user-friendly, providing essential f
 1. **Clone the Repository:**  
    ```bash
    git clone https://github.com/yourusername/EventManegmentSystem.git
-   cd event-hall-management-system
+   cd EventManegmentSystem
    ```
 
 2. **Compile the Program:**  
    Use a C compiler like GCC:  
    ```bash
-   gcc -o event_hall_management main.c
+   gcc -o EventManegmentSystem main.c
    ```
 
 3. **Run the Program:**  
    ```bash
-   ./event_hall_management
+   ./EventManegmentSystem
    ```
 
 4. **Interact with the Application:**  
